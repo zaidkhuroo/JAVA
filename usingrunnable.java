@@ -9,7 +9,7 @@ class A implements Runnable { // class A implementing Runnable
                 // so it will be handled precisely by try and catch blocks
             } catch (InterruptedException e) {
                 e.printStackTrace();
-            }
+            } 
         }
     }
 }
