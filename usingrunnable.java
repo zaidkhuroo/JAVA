@@ -16,7 +16,7 @@ class A implements Runnable { // class A implementing Runnable
 
 class B implements Runnable { // class A implementing Runnable
     public void run() { // in every thread we need to have a run method
-        for (int i = 0; i <= 100; i++) {
+        for (int i = 0; i <= 100; i++) {  
             System.out.println("boss");
             try {
                 Thread.sleep(10); // by using thread.sleep() we can put thread to sleep for 10 mili seconds and by
