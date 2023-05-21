@@ -27,7 +27,7 @@ class B implements Runnable { // class A implementing Runnable
                 e.printStackTrace();
             } 
         }
-    }
+    } 
 }
 
 public class usingrunnable {
