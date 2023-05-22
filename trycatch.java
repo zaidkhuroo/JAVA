@@ -4,7 +4,7 @@ public class trycatch {
 
     public static void main(String[] args) {
         int a = 8;
-        int b = 0;
+        int b = 0; 
         int t = 0;
 
         try { //applying try method on integer when divided with b(0)
