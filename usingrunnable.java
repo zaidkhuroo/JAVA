@@ -4,7 +4,7 @@ class A implements Runnable { // class A implementing Runnable
             System.out.println("hello");
             try {
                 Thread.sleep(10);// by using thread.sleep() we can put thread to sleep for 10 mili seconds and by
-                                 // this threads will be optimized to be printed one after each other.
+                                 // this threads will be optimized to be printed one after each other. 
                 // we are also using try and catch method as using thread.sleep throws exception
                 // so it will be handled precisely by try and catch blocks
             } catch (InterruptedException e) {
