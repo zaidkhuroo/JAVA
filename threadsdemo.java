@@ -5,7 +5,7 @@ class A extends Thread { //using thread with class A by using extends keyword
             System.out.println("hello");
         }
     }
-}
+} 
 
 class B extends Thread { //replacing class with threads by extends keyword
     public void run() { //in every thread we need to have a run method
