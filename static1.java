@@ -11,7 +11,7 @@ class static2 {
 public class static1 { //main class
     public static void main(String args[]) //main method
      {
-        static2 s = new static2(); //object1 created
+        static2 s = new static2(); //object1 created and calls constructor
         static2 st = new static2(); //object2 created
 
     }
