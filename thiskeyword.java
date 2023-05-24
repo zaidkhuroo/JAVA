@@ -5,7 +5,7 @@ class abc {
                         // it will print the default value of instance variable which is 0.
     {
         // i = x; //assigning instance variable with local variable
-        // if we will set i=i then it will print the default value of instance variable
+        // if we will set i=i then it will print the default value of instance variable 
         // which is 0
 
         this.i = i; // with this keyword the first i will refer to the instance variable and the
