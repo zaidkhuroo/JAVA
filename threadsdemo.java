@@ -4,7 +4,7 @@ class A extends Thread { //using thread with class A by using extends keyword
         for (int i = 0; i <= 100; i++) { 
             System.out.println("hello");
         }
-    } 
+    }  
 } 
 
 class B extends Thread { //replacing class with threads by extends keyword
