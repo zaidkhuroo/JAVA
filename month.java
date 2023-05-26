@@ -44,6 +44,7 @@ public class month {
                     System.out.println("Dec");
                     break;
             }
+//             if wrong input
         } else
             System.out.println("Wrong input");
 
