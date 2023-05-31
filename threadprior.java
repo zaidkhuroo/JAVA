@@ -1,6 +1,6 @@
 //program to print threads one after each other 
 class A extends Thread { // using thread with class A by using extends keyword
-    public void run() { // in every thread we need to have a run method
+    public void run() { // in every thread we need to have a run method 
         for (int i = 0; i <= 100; i++) {
             System.out.println("hello");
             try {
