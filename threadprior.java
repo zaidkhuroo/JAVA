@@ -2,7 +2,7 @@
 class A extends Thread { // using thread with class A by using extends keyword
     public void run() { // in every thread we need to have a run method 
         for (int i = 0; i <= 100; i++) {
-            System.out.println("hello");
+            System.out.println("hello"); 
             try { 
                 Thread.sleep(10);//by using thread.sleep() we can put thread to sleep for 10 mili seconds and by this threads will be optimized to be printed one after each other.
                 //we are also using try and catch method as using thread.sleep throws exception so it will be handled precisely by try and catch blocks
