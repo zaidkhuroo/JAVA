@@ -5,7 +5,7 @@ abstract class bmw { //making an abstract class
 
 class audi extends bmw { //inheriting class from the abstract class bmw, with the help of this regular class, we can implement the abstract methods in this inherited class, we also achieve method overriding with this as the method name and its arguments in every sub classes are same.
     int tyres = 4; //implementing the value to the abstract variable. 
-
+ 
     void vehicle() { //implementing abstract method
         System.out.println("i am audi");
     }
