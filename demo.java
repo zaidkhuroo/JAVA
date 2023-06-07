@@ -8,7 +8,7 @@ class calc { // new class
     }
 }
 
-public class demo { // main class of the program
+public class demo { // main class of the program 
 
     public static void main(String args[]) // man method of the program
     {
