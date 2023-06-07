@@ -1,4 +1,4 @@
-abstract class bmw { //making an abstract class
+abstract class bmw { //making an abstract class 
     int tyres;
     abstract void vehicle(); //making abstract method,it doesn't have body and by abstract method we mean that we can't provide the method deinition of the abstract method in the abstract class. also there can be an abstract class but not an abstract method in the same class
 }
