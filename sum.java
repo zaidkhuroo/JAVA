@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class calcul {
     public int add(int i, int j) // creating first method by passing 3 paramaters inside it
-    {
+    { 
         return i + j;
 
     }
