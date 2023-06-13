@@ -2,7 +2,7 @@ interface ABC { //1st interface
      void prints();
      public static final int a=10; //a variable must contain  public static final kyword with it in interface
 }
-interface ABCD { //2nd interface
+interface ABCD { //2nd interface 
     void disp(); 
     public static final int a=10; //a variable must contain  public static final kyword with it in interface
 }
