@@ -1,4 +1,4 @@
-//program to make classes as threads, which will improve the performance of code, as threads run parallely 
+//program to make classes as threads, which will improve the performance of code, as threads run parallely .
 class A extends Thread { //using thread with class A by using extends keyword
     public void run() { //in every thread we need to have a run method
         for (int i = 0; i <= 100; i++) { 
