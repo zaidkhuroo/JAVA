@@ -3,7 +3,7 @@
 class calcul {
     public int add(int i, int j, int k) //creating first method by passing 3 paramaters inside it
     {
-        return i + j + k;
+        return i + j + k; 
     }
 
     public int add(int i, int j) //creating 2nd method by passing 2 paramaters inside it
