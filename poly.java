@@ -3,7 +3,7 @@ class A {
     void show() {
         System.out.println("in A");
     }
-}
+} 
 
 class B extends A {
     void show() {
