@@ -14,7 +14,7 @@ class audi extends bmw { //inheriting class from the abstract class bmw, with th
 class ferrari extends bmw {
     int tyres = 6;
 
-    void vehicle() {
+    void vehicle() { //vehicle method
         System.out.println("i am ferrari");
     }
 }
