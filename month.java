@@ -1,11 +1,12 @@
-import java.util.Scanner;
+import java.util.Scanner; //importing library to use the scanner method. 
 
 public class month {
     public static void main(String args[]) { 
         System.out.println("Enter the month number");
-        Scanner s = new Scanner(System.in);
+        Scanner s = new Scanner(System.in); //using scanner to take the input form the user
         int i = s.nextInt();
-        if (i <= 12) {
+        if (i <= 12) 
+        {
             switch (i) {
                 case 1:
                     System.out.println("Jan");
