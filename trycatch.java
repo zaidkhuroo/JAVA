@@ -3,7 +3,7 @@ import java.net.SocketPermission; //library imports automatically once the excep
 public class trycatch {
 
     public static void main(String[] args) {
-        int a = 8;
+        int a = 8; 
         int b = 0;  
         int t = 0;
  
