@@ -3,7 +3,7 @@ class A {
     int a = 10; //instance variable declared in super class and outside the method.
 }
 
-class B extends A //extending the subclass B with parent class A.
+class B extends A //extending the subclass B with parent class A. 
 {
     int a = 20; //instance variable of sub class.  
 
