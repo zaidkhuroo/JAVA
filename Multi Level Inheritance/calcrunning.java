@@ -1,5 +1,5 @@
 public class calcrunning{
-    public static void main(String args[]) {
+    public static void main(String args[]) { 
         fullcalc object1 = new fullcalc();
         int r1 = object1.add(10, 12);
         int r2 = object1.sub(22, 12);
