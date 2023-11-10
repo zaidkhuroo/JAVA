@@ -2,7 +2,7 @@
 public class bubbleSort { // making class
     public static void main(String args[]) {
         int a[] = { 1, 45, 64, 23, 34, 56, 67 };
-        System.out.println("Elements before sorting are");
+        System.out.println("Elements before sorting are"); 
         for (int i = 0; i < a.length; i++) { //using loop to print the elements of array before they're sorted
             System.out.println(a[i] + " "); //displaying the elemnts of array 
         }
